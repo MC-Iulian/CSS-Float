@@ -1,2 +1,2 @@
 # CSS-Float
-CSS Float exercises
+![float](./float.PNG)
